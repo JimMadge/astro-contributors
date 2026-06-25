@@ -2,4 +2,4 @@
 "astro-contributors": minor
 ---
 
-Bump astro dependency to 7
+Add support for Astro 7
